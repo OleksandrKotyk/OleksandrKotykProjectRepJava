@@ -1,0 +1,13 @@
+Subject: {0}
+FROM: {1}
+TO: {2} <{3}>
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+        boundary="XXXXboundary text"
+
+This is a multipart message in MIME format.
+
+--XXXXboundary text
+Content-Type: text/plain
+
+{4}

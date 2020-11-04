@@ -1,0 +1,4 @@
+--XXXXboundary text
+Content-Type: {0}; name={1}
+Content-Disposition: attachment; filename={2}
+Content-Transfer-Encoding: base64
